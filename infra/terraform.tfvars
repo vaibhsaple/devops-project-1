@@ -9,7 +9,7 @@ cidr_private_subnet  = ["10.0.3.0/24", "10.0.4.0/24"]
 eu_availability_zone = ["eu-central-1a", "eu-central-1b"]
 
 public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK7zuNVYI3Y3Z4zbVAn4vBHz9A3BMW38Qt0+foEL9uFB sushant thorat@CHITRA"
-ec2_ami_id     = "ami-06dd92ecc74fdfb36"
+ec2_ami_id     = "ami-0444794b421ec32e4"
 ec2_user_data_install_apache = ""
 
 domain_name = "jhooq.org"
